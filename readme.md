@@ -169,4 +169,3 @@ http://localhost:8000/predict
 - Sound alerts or visual dashboard.
 - Multi-camera integration.
 
-# Helmet_Detection
